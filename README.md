@@ -1,5 +1,5 @@
 ## 💻 技能
-![Python] ![Sql]
+[Python] [Sql] [PowerBI] [Shellscript] [MachineLearning]
         
 ## 📃: 經歷
 - **【資料庫、分析指標、分析報表】為期15年以上**<br>
